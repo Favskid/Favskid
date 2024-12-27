@@ -1,4 +1,4 @@
-👋 Hi, I’m @Favskid, a passionate front-end developer | node js, on a journey to master web development!
+👋 Hi, I’m @Favskid, A Web Developer!
 
 👀 I’m interested in Front-End Development and creating seamless, interactive user experiences.
 
